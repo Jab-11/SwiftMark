@@ -17,8 +17,8 @@
 - **haarcascade_frontalface_default.xml:** Pre-trained XML file for detecting frontal faces using the Haar Cascade classifier.
 - **face_dataset_dict:** A list of faces indexed, used for mapping recognized faces to student identities.
 - **MarkAttendance:** Script that marks attendance for recognized students.
-- **face_recog_vgg.h5:** Version 1 of the trained CNN model.
-- **face_recog_vgg_v2.h5:** Version 2 of the trained CNN model with improved accuracy.
+- **[face_recog_vgg.h5](https://drive.google.com/file/d/1DB81kbfNTRX3qXtb1ehf30fCVYeAMxsa/view?usp=drive_link):** Version 1 of the trained CNN model.
+- **[face_recog_vgg_v2.h5](https://drive.google.com/file/d/1I6Tha3mfvgk9pwL2iGfv-s-8A66eg4-G/view?usp=drive_link):** Version 2 of the trained CNN model with improved accuracy.
 
 ### Challenges and Future Enhancements
 - Improve data storage and security.
